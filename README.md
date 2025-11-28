@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello! 👋
 
-<!--
-**Lapatniova/Lapatniova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Alena Lapatniova**, Assistant Engineer at Progedo(CNRS).  
+I work on the documentation of statistical surveys and historical data using the **DDI** standard, and I develop **R scripts** to automate this process.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Badges  
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--8485--2371-green)](https://orcid.org/0000-0001-8485-2371)
+
+---
+
+## Skills  
+- R, data processing and automation  
+- DDI (Data Documentation Initiative) documentation  
+- Management of historical data and statistical surveys  
+
+---
+
+## Contact  
+- LinkedIn: [Alena Lapatniova](https://www.linkedin.com/in/lapatniova-alena-7243822b/)  
+- Email: alena.lapatniova@cnrs.fr 
+
+---
+
+Thanks for visiting my GitHub profile! 🚀
+
+
+
