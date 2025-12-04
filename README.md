@@ -22,16 +22,16 @@ This repository is archived and citable via Zenodo (DOI above).
 
 ---
 
-## Project: `inject_modalities`  
+## Project: `inject_categories`  
 
-`inject_modalities` is an R script that allows users to inject modalities from an Excel file into an existing XML file.  
+`inject_categories` is an R script that allows users to inject variable categories from an Excel file into an existing XML file.  
 It is designed for easy updating of questionnaires or datasets in XML format.
 
 ### Usage Example
 ```r
-inject_modalities(
+inject_categories(
   xml_path = "data/input.xml",
-  excel_path = "data/modalities.xlsx",
+  excel_path = "data/categories.xlsx",
   output_xml_path = "data/output.xml"
 )
 
