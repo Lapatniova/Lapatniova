@@ -51,8 +51,7 @@ insert_universe(
   output_xml_path = "data/output_universe.xml"
 )
 
----
-
+``` 
 The Excel file must contain two columns:
 variable → variable name (must match the XML)
 universe → universe or filter text to insert
