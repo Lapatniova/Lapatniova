@@ -9,6 +9,7 @@ I am passionate about sailing and enjoy hiking.
 ## Badges  
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--8485--2371-green)](https://orcid.org/0000-0001-8485-2371)  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17752420.svg)](https://doi.org/10.5281/zenodo.17752420)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17989523.svg)](https://doi.org/10.5281/zenodo.17989523)
 
 This repository is archived and citable via Zenodo (DOI above).
 
