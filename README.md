@@ -34,8 +34,8 @@ inject_categories(
   excel_path = "data/categories.xlsx",
   output_xml_path = "data/output.xml"
 )
+``` 
 
----
 ---
 ## Project : 'insert_universe'
 
