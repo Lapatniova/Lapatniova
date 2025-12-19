@@ -42,6 +42,7 @@ inject_categories(
 insert_universe is an R script that automates the insertion of DDI <universe> metadata at the variable level in a DDI XML file exported from Nesstar or NADA.
 It is designed to avoid manually filling the Universe / Filter field by using an Excel mapping file.
 
+---
 ### Usage Example
 ```r
 insert_universe(
